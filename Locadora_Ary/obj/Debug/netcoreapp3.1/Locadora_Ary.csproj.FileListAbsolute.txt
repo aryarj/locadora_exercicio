@@ -1,0 +1,15 @@
+C:\Users\Administrador\source\repos\Locadora_Ary\Locadora_Ary\obj\Debug\netcoreapp3.1\Locadora_Ary.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\Locadora_Ary\Locadora_Ary\obj\Debug\netcoreapp3.1\Locadora_Ary.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\Locadora_Ary\Locadora_Ary\obj\Debug\netcoreapp3.1\Locadora_Ary.AssemblyInfo.cs
+C:\Users\Administrador\source\repos\Locadora_Ary\Locadora_Ary\obj\Debug\netcoreapp3.1\Locadora_Ary.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\Locadora_Ary\Locadora_Ary\bin\Debug\netcoreapp3.1\Locadora_Ary.exe
+C:\Users\Administrador\source\repos\Locadora_Ary\Locadora_Ary\bin\Debug\netcoreapp3.1\Locadora_Ary.deps.json
+C:\Users\Administrador\source\repos\Locadora_Ary\Locadora_Ary\bin\Debug\netcoreapp3.1\Locadora_Ary.runtimeconfig.json
+C:\Users\Administrador\source\repos\Locadora_Ary\Locadora_Ary\bin\Debug\netcoreapp3.1\Locadora_Ary.runtimeconfig.dev.json
+C:\Users\Administrador\source\repos\Locadora_Ary\Locadora_Ary\bin\Debug\netcoreapp3.1\Locadora_Ary.dll
+C:\Users\Administrador\source\repos\Locadora_Ary\Locadora_Ary\bin\Debug\netcoreapp3.1\Locadora_Ary.pdb
+C:\Users\Administrador\source\repos\Locadora_Ary\Locadora_Ary\obj\Debug\netcoreapp3.1\Locadora_Ary.dll
+C:\Users\Administrador\source\repos\Locadora_Ary\Locadora_Ary\obj\Debug\netcoreapp3.1\Locadora_Ary.pdb
+C:\Users\Administrador\source\repos\Locadora_Ary\Locadora_Ary\obj\Debug\netcoreapp3.1\Locadora_Ary.genruntimeconfig.cache
+D:\Backup 32-09-2015\Users\Master\Documents\Center Cob\Exercício Locadora\Locadora_Ary\obj\Debug\netcoreapp3.1\Locadora_Ary.dll
+D:\Backup 32-09-2015\Users\Master\Documents\Center Cob\Exercício Locadora\Locadora_Ary\obj\Debug\netcoreapp3.1\Locadora_Ary.pdb
